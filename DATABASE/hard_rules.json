@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "medical_stream_gate",
+    "if": { "stream": { "$ne": "PCB" } },
+    "thenReject": "medical_colleges"
+  },
+  {
+    "_id": "neet_min_score",
+    "if": { "examScores.NEET": { "$lt": 480 } },
+    "thenReject": "medical_colleges"
+  },
+  {
+    "_id": "commerce_stream_gate",
+    "if": { "stream": { "$ne": "Commerce" } },
+    "thenReject": "commerce_colleges"
+  },
+  {
+    "_id": "engineering_stream_gate",
+    "if": { "stream": { "$ne": "PCM" } },
+    "thenReject": "engineering_colleges"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "medical_accept",
+    "stream": "PCB",
+    "template": "Your NEET score of {{examScore}} falls within the adjusted cutoff range for {{collegeName}} after applying {{category}} category relaxation. You also meet the minimum Class 12 eligibility, making this a suitable medical college option."
+  },
+  {
+    "_id": "engineering_accept",
+    "stream": "PCM",
+    "template": "Based on your JEE performance and PCM background, {{collegeName}} fits your academic profile. Your score is safely aligned with the college cutoff, and the institution type matches your preference hierarchy."
+  },
+  {
+    "_id": "commerce_accept",
+    "stream": "Commerce",
+    "template": "Your academic performance and CA Foundation / board marks satisfy the admission criteria for {{collegeName}}, making it a realistic commerce pathway."
+  },
+  {
+    "_id": "arts_accept",
+    "stream": "Arts",
+    "template": "Your CUET / board score and interest alignment meet the requirements for {{collegeName}}, which offers strong undergraduate arts programs."
+  }
+]
+[
+  {
+    "_id": "neet_reject",
+    "stream": "PCB",
+    "template": "Your NEET score of {{examScore}} does not meet the minimum adjusted cutoff for the listed medical colleges. This does not reflect your potential, but MBBS admission is unlikely with this score in the current cycle."
+  },
+  {
+    "_id": "engineering_reject",
+    "stream": "PCM",
+    "template": "Based on your JEE score and eligibility criteria, the available engineering colleges fall outside a safe admission range. Alternative private institutions or improvement attempts may be considered."
+  },
+  {
+    "_id": "commerce_reject",
+    "stream": "Commerce",
+    "template": "Your academic scores do not satisfy the minimum criteria for the listed commerce colleges at this time. You may explore alternate programs or reattempt entrance examinations."
+  },
+  {
+    "_id": "arts_reject",
+    "stream": "Arts",
+    "template": "Your score does not currently meet the eligibility threshold for the available arts colleges. Additional options or score improvement should be explored."
+  }
+]

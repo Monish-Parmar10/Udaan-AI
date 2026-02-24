@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "aiims_bhopal",
+    "name": "AIIMS Bhopal",
+    "state": "Madhya Pradesh",
+    "stream": "PCB",
+    "exam": "NEET",
+    "type": "Government",
+    "cutoffGEN": { "min": 650, "max": 680 },
+    "minClass12Percentage": 50,
+    "additionalCriteria": "Physics, Chemistry, Biology mandatory"
+  },
+  {
+    "_id": "gmc_bhopal",
+    "name": "Gandhi Medical College, Bhopal",
+    "state": "Madhya Pradesh",
+    "stream": "PCB",
+    "exam": "NEET",
+    "type": "Government",
+    "cutoffGEN": { "min": 610, "max": 640 },
+    "minClass12Percentage": 50,
+    "additionalCriteria": "PCB with English"
+  },
+  {
+    "_id": "bjmc_pune",
+    "name": "BJ Government Medical College, Pune",
+    "state": "Maharashtra",
+    "stream": "PCB",
+    "exam": "NEET",
+    "type": "Government",
+    "cutoffGEN": { "min": 620, "max": 650 },
+    "minClass12Percentage": 50,
+    "additionalCriteria": "PCB compulsory"
+  },
+  {
+    "_id": "dy_patil_pune_med",
+    "name": "DY Patil Medical College, Pune",
+    "state": "Maharashtra",
+    "stream": "PCB",
+    "exam": "NEET",
+    "type": "Private",
+    "cutoffGEN": { "min": 500, "max": 550 },
+    "minClass12Percentage": 50,
+    "additionalCriteria": "High tuition fees"
+  }
+]
+[
+  {
+    "_id": "manit_bhopal",
+    "name": "MANIT Bhopal (NIT)",
+    "state": "Madhya Pradesh",
+    "stream": "PCM",
+    "exam": "JEE_Main",
+    "type": "Government",
+    "cutoffGEN": { "min": 90, "max": 98 },
+    "minClass12Percentage": 75,
+    "additionalCriteria": "PCM subjects mandatory"
+  },
+  {
+    "_id": "iiti_indore",
+    "name": "IIT Indore",
+    "state": "Madhya Pradesh",
+    "stream": "PCM",
+    "exam": "JEE_Advanced",
+    "type": "Government",
+    "cutoffGEN": { "min": 99, "max": 100 },
+    "minClass12Percentage": 75,
+    "additionalCriteria": "JEE Advanced qualified"
+  },
+  {
+    "_id": "coep_pune",
+    "name": "College of Engineering Pune (COEP)",
+    "state": "Maharashtra",
+    "stream": "PCM",
+    "exam": "JEE_Main",
+    "type": "Government-Aided",
+    "cutoffGEN": { "min": 95, "max": 99 },
+    "minClass12Percentage": 75,
+    "additionalCriteria": "MHT-CET/JEE accepted"
+  },
+  {
+    "_id": "vit_pune",
+    "name": "Vishwakarma Institute of Technology, Pune",
+    "state": "Maharashtra",
+    "stream": "PCM",
+    "exam": "JEE_Main",
+    "type": "Private",
+    "cutoffGEN": { "min": 80, "max": 90 },
+    "minClass12Percentage": 60,
+    "additionalCriteria": "Autonomous institute"
+  }
+]
+[
+  {
+    "_id": "icai_indore",
+    "name": "ICAI Indore Chapter",
+    "state": "Madhya Pradesh",
+    "stream": "Commerce",
+    "exam": "CA_Foundation",
+    "type": "Professional Body",
+    "cutoffGEN": { "min": 50, "max": 100 },
+    "minClass12Percentage": 50,
+    "additionalCriteria": "CA Foundation mandatory"
+  },
+  {
+    "_id": "hr_college_mumbai",
+    "name": "HR College of Commerce and Economics",
+    "state": "Maharashtra",
+    "stream": "Commerce",
+    "exam": "Merit",
+    "type": "Government-Aided",
+    "cutoffGEN": { "min": 90, "max": 98 },
+    "minClass12Percentage": 75,
+    "additionalCriteria": "Merit-based admission"
+  },
+  {
+    "_id": "nmims_bcom",
+    "name": "NMIMS University",
+    "state": "Maharashtra",
+    "stream": "Commerce",
+    "exam": "Merit",
+    "type": "Private",
+    "cutoffGEN": { "min": 70, "max": 90 },
+    "minClass12Percentage": 60,
+    "additionalCriteria": "Entrance + interview"
+  }
+]
+[
+  {
+    "_id": "icai_indore",
+    "name": "ICAI Indore Chapter",
+    "state": "Madhya Pradesh",
+    "stream": "Commerce",
+    "exam": "CA_Foundation",
+    "type": "Professional Body",
+    "cutoffGEN": { "min": 50, "max": 100 },
+    "minClass12Percentage": 50,
+    "additionalCriteria": "CA Foundation mandatory"
+  },
+  {
+    "_id": "hr_college_mumbai",
+    "name": "HR College of Commerce and Economics",
+    "state": "Maharashtra",
+    "stream": "Commerce",
+    "exam": "Merit",
+    "type": "Government-Aided",
+    "cutoffGEN": { "min": 90, "max": 98 },
+    "minClass12Percentage": 75,
+    "additionalCriteria": "Merit-based admission"
+  },
+  {
+    "_id": "nmims_bcom",
+    "name": "NMIMS University",
+    "state": "Maharashtra",
+    "stream": "Commerce",
+    "exam": "Merit",
+    "type": "Private",
+    "cutoffGEN": { "min": 70, "max": 90 },
+    "minClass12Percentage": 60,
+    "additionalCriteria": "Entrance + interview"
+  }
+]
+[
+  {
+    "_id": "davv_arts",
+    "name": "DAVV Arts Faculty, Indore",
+    "state": "Madhya Pradesh",
+    "stream": "Arts",
+    "exam": "CUET",
+    "type": "Government",
+    "cutoffGEN": { "min": 70, "max": 90 },
+    "minClass12Percentage": 50,
+    "additionalCriteria": "CUET score required"
+  },
+  {
+    "_id": "fergusson_pune",
+    "name": "Fergusson College, Pune",
+    "state": "Maharashtra",
+    "stream": "Arts",
+    "exam": "CUET",
+    "type": "Government-Aided",
+    "cutoffGEN": { "min": 80, "max": 95 },
+    "minClass12Percentage": 60,
+    "additionalCriteria": "Highly competitive"
+  },
+  {
+    "_id": "amity_mumbai_arts",
+    "name": "Amity University Mumbai",
+    "state": "Maharashtra",
+    "stream": "Arts",
+    "exam": "Merit",
+    "type": "Private",
+    "cutoffGEN": { "min": 60, "max": 85 },
+    "minClass12Percentage": 50,
+    "additionalCriteria": "Fee-intensive"
+  }
+]

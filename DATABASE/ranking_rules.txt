@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "default_ranking_v1",
+    "appliesToStreams": ["PCB", "PCM", "Commerce", "Arts"],
+    "rankingFactors": {
+      "collegeTypePriority": {
+        "Government": 3,
+        "Government-Aided": 2,
+        "Private": 1
+      },
+      "scoreCloseness": {
+        "weight": 0.6,
+        "description": "How close the student score is to upper cutoff (closer is safer)"
+      },
+      "reputationWeight": {
+        "weight": 0.4,
+        "description": "Implicit via curated college list"
+      }
+    },
+    "sortingOrder": [
+      "collegeTypePriority",
+      "scoreCloseness"
+    ]
+  }
+]

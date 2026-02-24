@@ -1,0 +1,7 @@
+{
+  "_id": "india_category_relaxation",
+  "GEN": 0,
+  "OBC": -5,
+  "SC": -10,
+  "ST": -15
+}

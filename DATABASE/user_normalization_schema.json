@@ -1,0 +1,18 @@
+{
+  "_id": "normalized_user_v1",
+  "classLevel": null,
+  "stream": null,
+  "category": null,
+  "statePreference": [],
+  "academics": {
+    "class10Percentage": null,
+    "class12Percentage": null
+  },
+  "examScores": {
+    "NEET": null,
+    "JEE_Main_Percentile": null,
+    "CUET_Percentile": null,
+    "CA_Foundation_Percentage": null
+  },
+  "interestTags": []
+}
